@@ -1,0 +1,9 @@
+La primera variable es el conteo de contribuyentes activos: ¿cuántos usuarios están contribuyendo activamente 
+al código de un proyecto y con qué frecuencia? En muchos casos, tendrá dos o tres desarrolladores con algunos 
+commits por día o posiblemente menos para proyectos un tanto inactivos. Para empresas o proyectos más grandes, 
+la cantidad de desarrolladores podría ser de miles, con cientos o miles de compromisos cada día. Esto es importante 
+porque con más y más desarrolladores, se encontrará con más problemas para asegurarse de que su código se aplique de
+forma limpia o se pueda fusionar fácilmente. Los cambios que envíe pueden quedar obsoletos o severamente interrumpidos 
+por el trabajo que se fusionó mientras estaba trabajando o mientras 
+los cambios estaban esperando ser aprobados o aplicados. ¿Cómo puede mantener 
+su código constantemente actualizado y sus confirmaciones válidas?
